@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://paulloo.github.io](https://paulloo.github.io)
 
-- 📝 I regulary write articles on [https://bbs.ddp.life/](https://bbs.ddp.life/)
+- 📝 I regulary write articles on [https://ddp.life/](https://ddp.life/)
 
 - 💬 Ask me about **Taro, Vue, React**
 
